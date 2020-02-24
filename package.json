@@ -45,7 +45,7 @@
 		"component-webpack-plugin": "0.1.x"
 	},
 	"engines": {
-		"node":  ">=0.6"
+		"node": ">=0.6"
 	},
 	"repository": {
 		"type": "git",
